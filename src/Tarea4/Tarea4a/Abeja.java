@@ -1,7 +1,7 @@
 
-package Tarea4a;
+package Tarea4.Tarea4a;
 
-public class Abeja implements Tarea4a.Interface.Hymenoptera{
+public class Abeja implements Tarea4.Tarea4a.Interface.Hymenoptera{
     private String tipoCelda;
     private String comer;
     private String funciones;

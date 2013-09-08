@@ -1,5 +1,5 @@
 
-package Tarea4a;
+package Tarea4.Tarea4a;
 
 public class zangano extends Abeja{
 

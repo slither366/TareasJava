@@ -1,4 +1,4 @@
-package Tarea4b;
+package Tarea4.Tarea4b;
 
 public class FueraDeRangoExcepcion extends Exception{
     

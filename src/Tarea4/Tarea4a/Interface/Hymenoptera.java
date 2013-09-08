@@ -1,5 +1,5 @@
 
-package Tarea4a.Interface;
+package Tarea4.Tarea4a.Interface;
 
 public interface Hymenoptera {
     
